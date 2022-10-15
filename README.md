@@ -14,7 +14,7 @@
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+![Postman](https://img.shields.io/badge/-Postman/in_study-090909?style=for-the-badge&logo=Postman)
 ![Testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=Testrail)
 ![SQL](https://img.shields.io/badge/-SQL/in_study-090909?style=for-the-badge&logo=mySQL&logoColor=47C5FB)
 ![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=googlechrome)
