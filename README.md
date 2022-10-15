@@ -29,3 +29,13 @@
 [![Linked-in](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007bb6)](https://www.linkedin.com/in/aleksandr-zaichenko-47a438230/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/oxpahha)
 [![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/oxpah)
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=12,071313,163334,468c94&text_color=53b0af&title_color=53b0af&border_color=071313&icon_color=a9e4e4)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&bg_color=12,071313,163334,468c94&text_color=a9e4e4&title_color=53b0af&border_color=071313)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
