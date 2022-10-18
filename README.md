@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[16.10.22]  Zoom. Обсуждения testrail, bugreport, отчет  ч.3](https://www.youtube.com/watch?v=Jn3gZUVcE1c)
+- [[16.10.22]  Zoom. Обсуждения testrail, bugreport, отчет  ч.2](https://www.youtube.com/watch?v=AOkcAsMkCOc)
+- [[16.10.22]  Zoom. Обсуждения testrail, bugreport, отчет  ч.1](https://www.youtube.com/watch?v=nPpErS-tTg4)
 - [Открытый урок С# с Денисом Сапрыкиным](https://www.youtube.com/watch?v=TtvZN0VwJwY)
 - [[12.10.22]  Zoom. Обсуждения тесткейсы, DevTools, баги](https://www.youtube.com/watch?v=NUcA0GPScRs)
-- [[10.10.22]  Zoom. Обсуждения тесткейсы  ч.2](https://www.youtube.com/watch?v=lsKDvg0nQuY)
-- [[10.10.22]  Zoom. Обсуждения тесткейсы  ч.1](https://www.youtube.com/watch?v=eePg086D4zA)
-- [Открытый урок С# С Андреем Беляевым и Евгением Коленко](https://www.youtube.com/watch?v=E9qlz_5gPKs)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
