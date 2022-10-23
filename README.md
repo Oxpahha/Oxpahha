@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[21.10.22][Zoom][ч.1] Приоритет, эксель, отчет](https://www.youtube.com/watch?v=I2xRcNvyMdU)
+- [[21.10.22][Zoom][ч.2]  Практика 3, чек-лист, приоритет](https://www.youtube.com/watch?v=pIOTM1_murQ)
+- [[21.10.22][Zoom][ч.1] практика 3, баги формы авторизации](https://www.youtube.com/watch?v=ByZxkAKoNgI)
 - [[18.10.22][Zoom][ч.1] Тестирование эквивалентные, граничные значения](https://www.youtube.com/watch?v=s2i_AEIR1XQ)
 - [[18.10.22][Zoom][ч.3] Практика 3, Testrail](https://www.youtube.com/watch?v=n5n8ZOcOhNo)
-- [[18.10.22][Zoom][ч.2] Практика 3, Testrail](https://www.youtube.com/watch?v=RjiTXPASmVE)
-- [[16.10.22][Zoom][ч.3]  Обсуждения testrail, bugreport, отчет](https://www.youtube.com/watch?v=Jn3gZUVcE1c)
-- [[16.10.22][Zoom][ч.2] Обсуждения testrail, bugreport, отчет](https://www.youtube.com/watch?v=AOkcAsMkCOc)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
