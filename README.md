@@ -4,7 +4,7 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Открытый урок Unity с Денисом Сапрыкином](https://www.youtube.com/watch?v=qn2w_r5-i4Q)
+- [Открытый урок Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=qn2w_r5-i4Q)
 - [[21.10.22][Zoom][ч.3] Приоритет, эксель, отчет](https://www.youtube.com/watch?v=I2xRcNvyMdU)
 - [[21.10.22][Zoom][ч.2]  Практика 3, чек-лист, приоритет](https://www.youtube.com/watch?v=pIOTM1_murQ)
 - [[21.10.22][Zoom][ч.1] практика 3, баги формы авторизации](https://www.youtube.com/watch?v=ByZxkAKoNgI)
