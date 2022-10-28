@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[Unity][ч.2] Открытый урок с Денисом Сапрыкиным](https://www.youtube.com/watch?v=s7sP5nBj5CI)
+- [[26.10.22][Zoom] Практика 3-4, отчет](https://www.youtube.com/watch?v=VSsHuHb93QQ)
 - [[GB][Пакет Разработчик] Итоги блока, первая четверть ч.1](https://www.youtube.com/watch?v=tsXeZsLQzoQ)
-- [Открытый урок Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=qn2w_r5-i4Q)
+- [[Unity][ч.1] Открытый урок с Денисом Сапрыкиным](https://www.youtube.com/watch?v=qn2w_r5-i4Q)
 - [[21.10.22][Zoom][ч.3] Приоритет, эксель, отчет](https://www.youtube.com/watch?v=I2xRcNvyMdU)
-- [[21.10.22][Zoom][ч.2]  Практика 3, чек-лист, приоритет](https://www.youtube.com/watch?v=pIOTM1_murQ)
-- [[21.10.22][Zoom][ч.1] практика 3, баги формы авторизации](https://www.youtube.com/watch?v=ByZxkAKoNgI)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
