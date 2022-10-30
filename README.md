@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[29.10.22][Zoom][ч.1] Практика 5, итоговая работа, Selenium](https://www.youtube.com/watch?v=U3XnLO1wuCQ)
+- [[29.10.22][Zoom][ч.2] Практика 5, итоговая работа, Selenium](https://www.youtube.com/watch?v=xxlX10n3DDY)
+- [[28.10.22][Zoom][ч.2] Практика 4, прочее](https://www.youtube.com/watch?v=3hoqalWpciY)
+- [[28.10.22][Zoom][ч.1] Практика 4, прочее](https://www.youtube.com/watch?v=wMHt_NJ6VC0)
 - [[Unity][ч.2] Открытый урок с Денисом Сапрыкиным](https://www.youtube.com/watch?v=s7sP5nBj5CI)
-- [[26.10.22][Zoom] Практика 3-4, отчет](https://www.youtube.com/watch?v=VSsHuHb93QQ)
-- [[GB][Пакет Разработчик] Итоги блока, первая четверть ч.1](https://www.youtube.com/watch?v=tsXeZsLQzoQ)
-- [[Unity][ч.1] Открытый урок с Денисом Сапрыкиным](https://www.youtube.com/watch?v=qn2w_r5-i4Q)
-- [[21.10.22][Zoom][ч.3] Приоритет, эксель, отчет](https://www.youtube.com/watch?v=I2xRcNvyMdU)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
