@@ -34,7 +34,7 @@
 [![Linked-in](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007bb6)](https://www.linkedin.com/in/aleksandr-zaichenko-47a438230/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/oxpahha)
 [![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/oxpah)
-[![CV](https://img.shields.io/badge/-CV-090909)](http://aleksandr-zaichenko.tilda.ws/)
+[![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&)](http://aleksandr-zaichenko.tilda.ws/)
 
 
 ### Stats
