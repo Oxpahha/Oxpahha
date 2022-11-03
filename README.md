@@ -29,7 +29,7 @@
 ### Contacts
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UC9izb-XCEo1t-MxKwEoXBmw)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Oh_hi_mr)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Oxpahh)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/oxpahha/)
 [![Linked-in](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007bb6)](https://www.linkedin.com/in/aleksandr-zaichenko-47a438230/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/oxpahha)
