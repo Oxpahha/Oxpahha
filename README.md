@@ -1,6 +1,6 @@
 [![Header](https://github.com/Oxpahha/Oxpahha/blob/main/assets/header.png?raw=true)](https://www.youtube.com/channel/UC9izb-XCEo1t-MxKwEoXBmw)
 
-## Hi! I'm QA engineer!:3
+## Hi! I'm QA engineer! :3
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
