@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[Postman] Rest, коллекции, первые тесты](https://www.youtube.com/watch?v=9__vWSAPvjk)
 - [[Unity][ч.3] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=DLbMiuJWENs)
 - [[31.10.22][Zoom][ч.2] 5 практика.Selenium, Python, Итоговая работа](https://www.youtube.com/watch?v=cAyx71ymxFs)
 - [[31.10.22][Zoom][ч.1] 5 практика.Selenium, Python, Итоговая работа](https://www.youtube.com/watch?v=JkuB179qlcA)
 - [[29.10.22][Zoom][ч.1] Практика 5, итоговая работа, Selenium](https://www.youtube.com/watch?v=U3XnLO1wuCQ)
-- [[29.10.22][Zoom][ч.2] Практика 5, итоговая работа, Selenium](https://www.youtube.com/watch?v=xxlX10n3DDY)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
