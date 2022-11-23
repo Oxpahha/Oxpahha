@@ -23,7 +23,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium/beginner-090909?style=for-the-badge&logo=Selenium)
 ![C#](https://img.shields.io/badge/-C%23/beginner-090909?style=for-the-badge&logo=Csharp)
 ![Python](https://img.shields.io/badge/-Python/in_study-090909?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-Java/in_study-090909?style=for-the-badge&logo=Java)
 
 
 ### Contacts
