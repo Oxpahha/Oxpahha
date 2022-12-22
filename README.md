@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[Python][ч.1] Простой Telegram-бот с Денисом Сапрыкиным](https://www.youtube.com/watch?v=hGDAZL7_l10)
 - [[Unity][ч.4] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=26fJtq_ZOYM)
 - [[Postman] Rest, коллекции, первые тесты](https://www.youtube.com/watch?v=9__vWSAPvjk)
 - [[Unity][ч.3] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=DLbMiuJWENs)
 - [[31.10.22][Zoom][ч.2] 5 практика.Selenium, Python, Итоговая работа](https://www.youtube.com/watch?v=cAyx71ymxFs)
-- [[31.10.22][Zoom][ч.1] 5 практика.Selenium, Python, Итоговая работа](https://www.youtube.com/watch?v=JkuB179qlcA)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
