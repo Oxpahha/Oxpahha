@@ -5,7 +5,7 @@
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [[Python] Telegram-бот. Калькулятор + логирование CodeReview](https://www.youtube.com/watch?v=XNW_RrU5PtE)
-- [[Python][ч.1] Простой Telegram-бот с Денисом Сапрыкиным](https://www.youtube.com/watch?v=hGDAZL7_l10)
+- [[Python] Простой Telegram-бот с Денисом Сапрыкиным](https://www.youtube.com/watch?v=hGDAZL7_l10)
 - [[Unity][ч.4] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=26fJtq_ZOYM)
 - [[Postman] Rest, коллекции, первые тесты](https://www.youtube.com/watch?v=9__vWSAPvjk)
 - [[Unity][ч.3] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=DLbMiuJWENs)
