@@ -4,8 +4,8 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[Python] Поговорим о ООП с Денисом Сапрыкиным](https://www.youtube.com/watch?v=3rT_n9R4ieY)
 - [[Python] Про фриланс, tg-bot, парсинг веб страниц. Основы с Фадеичевым Александром](https://www.youtube.com/watch?v=NFmuFg_TqBY)
-- [[Python] Парсинг веб страниц. Основы с Фадеичевым Александром](https://www.youtube.com/watch?v=4k2l3GRS28M)
 - [[Python] Telegram-бот. Калькулятор + логирование CodeReview](https://www.youtube.com/watch?v=XNW_RrU5PtE)
 - [[Python] Простой Telegram-бот с Денисом Сапрыкиным](https://www.youtube.com/watch?v=hGDAZL7_l10)
 - [[Unity][ч.4] Уроки Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=26fJtq_ZOYM)
