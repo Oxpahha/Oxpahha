@@ -37,6 +37,7 @@
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=12,071313,003960,501921&text_color=F7F1DE&title_color=F7F1DE&border_color=071313&icon_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&layout=compact&bg_color=12,071313,003960,501921&text_color=F7F1DE&title_color=F7F1DE&border_color=071313)](https://github.com/anuraghazra/github-readme-stats)
 
 
