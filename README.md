@@ -1,6 +1,6 @@
 [![Header](https://github.com/Oxpahha/Oxpahha/blob/main/assets/header.png?raw=true)](http://aleksandr-zaichenko.tilda.ws/)
 
-
+---
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Как тестируют в LibreOffice](https://www.youtube.com/watch?v=JK-x21Hcp_w)
@@ -10,6 +10,7 @@
 - [[Python] Telegram-бот. Калькулятор + логирование CodeReview](https://www.youtube.com/watch?v=XNW_RrU5PtE)
 <!-- YOUTUBE:END -->
 
+---
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
@@ -25,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 
-
+---
 ### Contacts
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UC9izb-XCEo1t-MxKwEoXBmw)
@@ -34,13 +35,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/oxpahha)
 [![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&)](http://aleksandr-zaichenko.tilda.ws/)
 
-
+---
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=12,071313,003960,501921&text_color=F7F1DE&title_color=F7F1DE&border_color=071313&icon_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=45,071313,071313,003960&text_color=F7F1DE&title_color=F7F1DE&border_color=F7F1DE&icon_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&layout=compact&bg_color=45,501921,071313,071313&text_color=F7F1DE&title_color=F7F1DE&border_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&layout=compact&bg_color=12,071313,003960,501921&text_color=F7F1DE&title_color=F7F1DE&border_color=071313)](https://github.com/anuraghazra/github-readme-stats)
-
-
+---
 
 
