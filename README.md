@@ -3,11 +3,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [[Unity][C#]  Кибераслан Синглтон и ООП, разбираем как работает инвентарь.](https://www.youtube.com/watch?v=ohXoH8o_TB0)
 - [Как тестируют в LibreOffice](https://www.youtube.com/watch?v=JK-x21Hcp_w)
 - [[Unity][ч.2] Поговорим о ООП на примере Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=3htQWsOT5HM)
 - [[Unity][ч.1] Поговорим о ООП на примере Unity с Денисом Сапрыкиным](https://www.youtube.com/watch?v=ch49eoC6Rlk)
 - [[Python] Про фриланс, tg-bot, парсинг веб страниц. Основы с Фадеичевым Александром](https://www.youtube.com/watch?v=NFmuFg_TqBY)
-- [[Python] Telegram-бот. Калькулятор + логирование CodeReview](https://www.youtube.com/watch?v=XNW_RrU5PtE)
 <!-- YOUTUBE:END -->
 ---
 
