@@ -36,8 +36,13 @@
 ---
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=45,071313,071313,003960&text_color=F7F1DE&title_color=F7F1DE&border_color=F7F1DE&icon_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&layout=compact&bg_color=45,501921,071313,071313&text_color=F7F1DE&title_color=F7F1DE&border_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxpahha&count_private=true&show_icons=true&theme=tokyonight&bg_color=45,071313,071313,003960&text_color=F7F1DE&title_color=F7F1DE&border_color=071313&icon_color=F7F1DE)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxpahha&bg_color=45,071313,071313,501921&text_color=F7F1DE&title_color=F7F1DE&border_color=071313)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Codewars](https://www.codewars.com/users/Oxpahha/badges/large
+)](codewars)
+
 ---
 
 
